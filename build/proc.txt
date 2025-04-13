@@ -1,2 +1,0 @@
-proc_1.txt
-proc_2.txt
